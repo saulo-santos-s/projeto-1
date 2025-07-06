@@ -1,2 +1,45 @@
 # projeto-1
  Site sobre HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Como aprender <HTMl></HTMl></title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+   <img src="https://codigofacil.com.br/wp-content/uploads/2024/12/o-que-e-html-imagem.jpg" alt="imagem"style="width: 100%; height: 350px;">
+    <h1 id="voltar">Todo o aprendizado sobre HTML:</h1>
+    <h2>indice</h2>
+    <ul>
+        <li><a href="#primeiros">Primeiros passos no HTML</a> </li>
+        <li><a href="#aprendendo">Aprendendo sobre as tags</a></li>
+        <li><a href="#links"> Links </a>                      </li>
+         <li><a href="#referencias">Referencias</a></li>
+    </ul>
+   
+   <h2 id="primeiros">Primeiros passos no HTML</h2>
+   <small><a href="#voltar">(voltar)</a></small>
+    <P>Nas primeiras aulas fomos aprendendo os elementos basicos sobre html e sendo indroduzidos a come&ccedil;ar a aprender sobre as estruturas básicas, como o <u>head</u> que se refere a cabe&ccedil;a do HTMl e o <u>body</u> que é o corpo.</P>                                            </P>
+    <p>Dentro do <u>head</u> vamos colocar informa&ccedil;ões que não vão ser ser mostradas ao leitor , informa&ccedil;ões sobre o site e como ele vai ser configurado e a forma que ele vai agir.</p>
+    <p>dentro do <U>body</U> vamos colocar toda a estrutura que vai ser visivel como os textos e titulos e etc...</p>
+    <h3>explicando de uma forma mais facil completa:</h3> A estrutura básica do HTML é o conjunto de elementos essenciais que formam o esqueleto de uma página web. Ela serve para organizar o conteúdo e garantir que os navegadores interpretem corretamente o código. Essa estrutura é composta por partes principais, como a declaração do tipo de documento, que informa ao navegador que o código está usando HTML5; a tag HTML, que envolve todo o conteúdo da página; a seção <U>head</U>, que contém informações como o título da página, codificação de caracteres, links para arquivos externos e metadados; e a se&ccedil;ão <u>body</u>, onde fica o conteúdo visível ao usuário, como textos, imagens, links, listas e outros elementos interativos. Essa organiza&ccedil;ão é fundamental para o funcionamento adequado de qualquer site.
+    
+    <h1 id="aprendendo">Aprendendo sobre tags</h1>
+    <small><a href="#voltar">(voltar)</a></small>
+    <p>Tags são palavras-chave envolvidas por colchetes angulares <u>&lt; &gt;</u> que dizem ao navegador como exibir ou interpretar certos conteúdos em uma página web. Elas funcionam como comandos e organizam o conteúdo da página de forma lógica. Existem tags que definem títulos, parágrafos, imagens, tabelas, listas, links, formulários e muitos outros tipos de elementos. A maioria das tags possui uma tag de abertura e uma tag de fechamento, sendo que a de fechamento contém uma barra <u>(/)</u> para indicar o fim daquela seção. Por exemplo, a tag <u>&lt;p&gt;</u> abre um parágrafo, e o fecha.</p>
+
+    <h1 id="links">Links</h1>
+    <small><a href="#voltar">(voltar)</a></small>
+    <p>Links, também chamados de hiperlinks, são elementos fundamentais em páginas web. Eles permitem que o usuário navegue entre páginas diferentes, se&ccedil;ões da mesma página, ou mesmo acesse arquivos externos, como documentos, imagens e vídeos. Em HTML, os links são criados usando a tag <u>&lt;a&gt;</u>, que significa "âncora" (anchor, em inglês).
+
+      Para que um link funcione, usamos o atributo href dentro da tag 	<u>&lt;a&gt;</u>. Esse atributo indica o destino do link, ou seja, para onde o navegador deve ir quando o usuário clicar naquele texto ou elemento <u>&lt;p&gt;</u>.
+
+     <h1 id="referencias">Link de aulas para te ajudar:</h1>
+<a href="https://www.youtube.com/watch?v=SV7TL0hxmIQ">Tutorial 1</a><br>
+<a href="https://www.youtube.com/watch?v=Gs5yi3Hi5qo">Tutorial 2</a><br>
+<a href="https://www.youtube.com/watch?v=B6ZLDDwBx9c">Tutorial 3</a><br>
+<a href="https://www.youtube.com/watch?v=pZ9S6h5vb2c">Tutorial 4</a>
+
+    </html>
